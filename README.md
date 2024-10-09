@@ -4,8 +4,7 @@ This summer, I worked as a tech consultant/research intern for Break Through Tec
 I have also held multiple positions at the Adler Planetarium, including as an undergraduate intern researching light pollution. 
 I enjoy programming in Python, and I also have experience in C++ and C. 
 I have worked with tools such as Valgrind, GDB, Vim, Jupyter Notebooks, GitHub, OpenCV, QGIS, and LaTeX.
-I am working on launching my career in the science realm, biomedical industry, or research. 
-I am interested in quantum computing, quantum sensing, data science, and machine learning. 
+I am interested in quantum computing, quantum sensing, data science, machine learning, and back-end development. 
 Feel free to contact me through LinkedIn!
 
 <!--
