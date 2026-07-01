@@ -1,9 +1,17 @@
 ### Hi there 👋
 Hello! My name is Claudia Jimenez and I'm a senior undergraduate student studying Computer Science at the University of Illinois Chicago (UIC). 
-In summer 2024, I worked as a tech consultant/research intern for Break Through Tech Chicago at Argonne National Laboratory. 
-I have also held multiple positions at the Adler Planetarium, including as an undergraduate intern researching light pollution. 
+
+Here is a quick summary of my experience:
+- Break Through Tech AI Program Fellow (currently taking Machine Learning Foundations course through eCornell)
+- Runwayz product design intern for 3-week sprint
+- WiCS Dev Project member (see my deployed personal portfolio website pinned below!)
+- Intro to High-Performance Computing Bootcamp Participant (view my pinned repo below to see how I predicted electricity demands using neural networks!)
+- Tech consultant and research intern at Chicago Tech Circle in collaboration with Argonne National Laboratory (see my pinned repo below for a sample of my Python automation work!) 
+- Adler Planetarium youth summer counselor and research volunteer
+- Adler Planetarium undergraduate light pollution research intern
+  
 I enjoy programming in Python, and I also have experience in C++ and C. 
-I have worked with tools such as Valgrind, GDB, Vim, Jupyter Notebooks, GitHub, OpenCV, QGIS, and LaTeX.
+I have worked with tools such as Claude Design, Jupyter Notebooks, GitHub, OpenCV, QGIS, Valgrind, GDB, Vim, and LaTeX.
 I am interested in AI and machine learning, data science, data engineering, and back-end development. 
 Feel free to contact me through LinkedIn!
 
