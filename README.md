@@ -30,7 +30,8 @@ I am interested in AI and machine learning, data science, data engineering, and 
 I also enjoy nature walks, photography, and reading poetry.
 
 ## Contact Info
-Feel free to contact me through LinkedIn: [(https://www.linkedin.com/in/jimenez-claudia/)]
+Message me on LinkedIn: [(https://www.linkedin.com/in/jimenez-claudia/)]
+Email me: [(cjim99330@gmail.com)]
 
 Have a nice day!
 
