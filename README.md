@@ -1,5 +1,5 @@
 # Hi there 👋
-Hello! My name is Claudia Jimenez, and I'm a senior undergraduate student studying Computer Science at the University of Illinois Chicago (UIC). 
+My name is Claudia Jimenez, and I'm a senior undergraduate student studying Computer Science at the University of Illinois Chicago (UIC). 
 
 ## Experience Summary
 - Break Through Tech AI Program Fellow
@@ -15,13 +15,19 @@ Hello! My name is Claudia Jimenez, and I'm a senior undergraduate student studyi
 
 ## Tech Stack
 **Programming languages:** Python, C++, C, SQL, Java, R, HTML
+
 **Tools:** Jupyter Notebooks, Git, Vim, GDB, Valgrind 
-**AI Tools:** Claude Design, Gemini, ChatGPT 
+
+**AI tools:** Claude Design, Gemini, ChatGPT 
+
 **Libraries and frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, Next.js, Tailwind CSS
-**Design and Planning**: Figma, Canva, Notion
+
+**Design and planning**: Figma, Canva, Notion
 
 ## Interests
 I am interested in AI and machine learning, data science, data engineering, and back-end development. 
+
+I also enjoy nature walks, photography, and reading poetry.
 
 ## Contact Info
 Feel free to contact me through LinkedIn: [(https://www.linkedin.com/in/jimenez-claudia/)]
