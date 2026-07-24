@@ -31,11 +31,7 @@ I also enjoy nature walks, photography, and reading poetry.
 
 ## Contact Info
 Message me on LinkedIn: [(https://www.linkedin.com/in/jimenez-claudia/)]
+
 Email me: [(cjim99330@gmail.com)]
 
 Have a nice day!
-
-<!--
-**cjimenez909/cjimenez909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: >
