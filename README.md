@@ -1,19 +1,32 @@
-### Hi there 👋
-Hello! My name is Claudia Jimenez and I'm a senior undergraduate student studying Computer Science at the University of Illinois Chicago (UIC). 
+# Hi there 👋
+Hello! My name is Claudia Jimenez, and I'm a senior undergraduate student studying Computer Science at the University of Illinois Chicago (UIC). 
 
-Here is a quick summary of my experience:
-- Break Through Tech AI Program Fellow (currently taking Machine Learning Foundations course through eCornell)
+## Experience Summary
+- Break Through Tech AI Program Fellow
+  - Currently taking Machine Learning Foundations course through eCornell
 - Runwayz product design intern for 3-week sprint
-- WiCS Dev Project member (see my deployed personal portfolio website pinned below!)
-- Intro to High-Performance Computing Bootcamp Participant (view my pinned repo below to see how I predicted electricity demands using neural networks!)
-- Tech consultant and research intern at Chicago Tech Circle in collaboration with Argonne National Laboratory (see my pinned repo below for a sample of my Python automation work!) 
-- Adler Planetarium youth summer counselor and research volunteer
-- Adler Planetarium undergraduate light pollution research intern
-  
-I enjoy programming in Python, and I also have experience in C++ and C. 
-I have worked with tools such as Claude Design, Jupyter Notebooks, GitHub, OpenCV, QGIS, Valgrind, GDB, Vim, and LaTeX.
+  - Designed a gamification system by conducting user research and leveraging Claude Design
+- WiCS Dev Project member
+  - See my deployed personal portfolio website pinned below!
+- Intro to High-Performance Computing Bootcamp Participant
+  - View my pinned repo below to see how I predicted electricity demands using neural networks!
+- Tech consultant and research intern at Chicago Tech Circle in collaboration with Argonne National Laboratory
+  - See my pinned repo below for a sample of my Python automation work!
+
+## Tech Stack
+**Programming languages:** Python, C++, C, SQL, Java, R, HTML
+**Tools:** Jupyter Notebooks, Git, Vim, GDB, Valgrind 
+**AI Tools:** Claude Design, Gemini, ChatGPT 
+**Libraries and frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, PyTorch, Next.js, Tailwind CSS
+**Design and Planning**: Figma, Canva, Notion
+
+## Interests
 I am interested in AI and machine learning, data science, data engineering, and back-end development. 
-Feel free to contact me through LinkedIn!
+
+## Contact Info
+Feel free to contact me through LinkedIn: [(https://www.linkedin.com/in/jimenez-claudia/)]
+
+Have a nice day!
 
 <!--
 **cjimenez909/cjimenez909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
