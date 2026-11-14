@@ -10,6 +10,7 @@ Email me: [cjim99330@gmail.com](cjim99330@gmail.com)
 - Break Through Tech AI Program Fellow
   -  Earned an online certificate in Machine Learning Foundations through eCornell this past summer
   -  Currently engineering a readability agent within a multi-agent LLM pipeline using Google ADK, Gemini, and Python to translate clinical text into patient-accessible summaries targeting an 8th-grade reading level
+  -  See my Fall AI Studio project repo pinned below
 - Runwayz product design intern for 3-week sprint
   - Designed a gamification system by conducting user research and leveraging Claude Design
 - WiCS Dev Project member
